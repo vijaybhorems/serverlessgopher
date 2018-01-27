@@ -1,6 +1,6 @@
-# Serverless Template for Golang
+# Sample Serverless Golang App
 
-This repository contains template for creating serverless services written in Golang.
+This repository contains a simple serverless service written in Golang. An API gateway is automatically created through cloud formation(serverless yaml should have http event) 
 
 ## Quick Start
 
